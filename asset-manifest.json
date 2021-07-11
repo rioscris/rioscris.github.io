@@ -1,24 +1,35 @@
 {
   "files": {
-    "main.css": "/static/css/main.db2bb5b5.chunk.css",
-    "main.js": "/static/js/main.3a2a0228.chunk.js",
-    "main.js.map": "/static/js/main.3a2a0228.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.705a300e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.705a300e.js.map",
-    "static/js/2.110381d9.chunk.js": "/static/js/2.110381d9.chunk.js",
-    "static/js/2.110381d9.chunk.js.map": "/static/js/2.110381d9.chunk.js.map",
-    "static/js/3.d89c5692.chunk.js": "/static/js/3.d89c5692.chunk.js",
-    "static/js/3.d89c5692.chunk.js.map": "/static/js/3.d89c5692.chunk.js.map",
+    "main.css": "/static/css/main.b924ad52.chunk.css",
+    "main.js": "/static/js/main.fe7ca7be.chunk.js",
+    "main.js.map": "/static/js/main.fe7ca7be.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3490a3c1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3490a3c1.js.map",
+    "static/js/2.c1108382.chunk.js": "/static/js/2.c1108382.chunk.js",
+    "static/js/2.c1108382.chunk.js.map": "/static/js/2.c1108382.chunk.js.map",
+    "static/js/3.f2daf5cf.chunk.js": "/static/js/3.f2daf5cf.chunk.js",
+    "static/js/3.f2daf5cf.chunk.js.map": "/static/js/3.f2daf5cf.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.db2bb5b5.chunk.css.map": "/static/css/main.db2bb5b5.chunk.css.map",
-    "static/js/2.110381d9.chunk.js.LICENSE.txt": "/static/js/2.110381d9.chunk.js.LICENSE.txt",
-    "static/media/teliuslogo.77c4fdbc.png": "/static/media/teliuslogo.77c4fdbc.png",
-    "static/media/App.css": "/static/media/woman.87abe393.jpg"
+    "static/css/main.b924ad52.chunk.css.map": "/static/css/main.b924ad52.chunk.css.map",
+    "static/js/2.c1108382.chunk.js.LICENSE.txt": "/static/js/2.c1108382.chunk.js.LICENSE.txt",
+    "static/media/teacher0.4ec10a76.jpg": "/static/media/teacher0.4ec10a76.jpg",
+    "static/media/teacher1.d8ab57df.jpg": "/static/media/teacher1.d8ab57df.jpg",
+    "static/media/teacher2.cc8d742d.jpg": "/static/media/teacher2.cc8d742d.jpg",
+    "static/media/teacher3.094ec6e3.jpg": "/static/media/teacher3.094ec6e3.jpg",
+    "static/media/teacher4.f456bef8.jpg": "/static/media/teacher4.f456bef8.jpg",
+    "static/media/teacher5.a6c374f7.jpg": "/static/media/teacher5.a6c374f7.jpg",
+    "static/media/teacher6.bbbe0299.jpg": "/static/media/teacher6.bbbe0299.jpg",
+    "static/media/teacher7.15d435e6.jpg": "/static/media/teacher7.15d435e6.jpg",
+    "static/media/teacher8.0a13e385.png": "/static/media/teacher8.0a13e385.png",
+    "static/media/teacher9.77fac445.png": "/static/media/teacher9.77fac445.png",
+    "static/media/teliuscolorlogo.1bc7d938.png": "/static/media/teliuscolorlogo.1bc7d938.png",
+    "static/media/teliuslogo.b0291fe7.png": "/static/media/teliuslogo.b0291fe7.png",
+    "static/media/main.css": "/static/media/woman3.18caf10a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.705a300e.js",
-    "static/js/2.110381d9.chunk.js",
-    "static/css/main.db2bb5b5.chunk.css",
-    "static/js/main.3a2a0228.chunk.js"
+    "static/js/runtime-main.3490a3c1.js",
+    "static/js/2.c1108382.chunk.js",
+    "static/css/main.b924ad52.chunk.css",
+    "static/js/main.fe7ca7be.chunk.js"
   ]
 }
