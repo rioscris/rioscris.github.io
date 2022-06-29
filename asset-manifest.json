@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e61318d4.css",
+    "main.js": "/static/js/main.650a214e.js",
+    "static/js/787.31047770.chunk.js": "/static/js/787.31047770.chunk.js",
+    "static/media/woolf1wallet2.png": "/static/media/woolf1wallet2.c93e5b0f978ccd405506.png",
+    "static/media/woolf1wallet1.png": "/static/media/woolf1wallet1.0743a089b9841e992c94.png",
+    "static/media/coin sound.mp3": "/static/media/coin sound.a17f1732f70951292819.mp3",
+    "index.html": "/index.html",
+    "main.e61318d4.css.map": "/static/css/main.e61318d4.css.map",
+    "main.650a214e.js.map": "/static/js/main.650a214e.js.map",
+    "787.31047770.chunk.js.map": "/static/js/787.31047770.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e61318d4.css",
+    "static/js/main.650a214e.js"
+  ]
+}
